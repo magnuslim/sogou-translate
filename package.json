@@ -1,0 +1,13 @@
+{
+  "name": "sogou-translate",
+  "version": "0.0.1",
+  "description": "Translate with Sogou DeepI API",
+  "main": "index.js",
+  "author": "Magnus Lim",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^8.3.2",
+    "md5": "^2.2.1"
+  },
+  "repository": "https://github.com/magnuslim/sogou-translate.git"
+}
